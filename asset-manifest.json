@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/GenConnect_Project/static/css/main.ee42197d.css",
-    "main.js": "/GenConnect_Project/static/js/main.4f3776fb.js",
+    "main.css": "/GenConnect_Project/static/css/main.6aee9b03.css",
+    "main.js": "/GenConnect_Project/static/js/main.960c6ec6.js",
     "static/js/453.2908e56f.chunk.js": "/GenConnect_Project/static/js/453.2908e56f.chunk.js",
     "static/media/GenConnect_Logo.png": "/GenConnect_Project/static/media/GenConnect_Logo.401d4c7e1f011613533d.png",
+    "static/media/Google-Logo.png": "/GenConnect_Project/static/media/Google-Logo.0394af0ee5e02654f8ef.png",
     "index.html": "/GenConnect_Project/index.html",
-    "main.ee42197d.css.map": "/GenConnect_Project/static/css/main.ee42197d.css.map",
-    "main.4f3776fb.js.map": "/GenConnect_Project/static/js/main.4f3776fb.js.map",
+    "main.6aee9b03.css.map": "/GenConnect_Project/static/css/main.6aee9b03.css.map",
+    "main.960c6ec6.js.map": "/GenConnect_Project/static/js/main.960c6ec6.js.map",
     "453.2908e56f.chunk.js.map": "/GenConnect_Project/static/js/453.2908e56f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee42197d.css",
-    "static/js/main.4f3776fb.js"
+    "static/css/main.6aee9b03.css",
+    "static/js/main.960c6ec6.js"
   ]
 }
